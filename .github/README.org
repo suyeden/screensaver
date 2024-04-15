@@ -19,15 +19,15 @@
 *** tama
     画面の中を5つの玉がひたすら動き続けます。衝突は玉と壁の衝突のみ検出します。
 
-    [[https://suyeden.github.io/demo/screensaver/tama/index.html][起動はこちらから]]
+    [[https://suyeden.github.io/demo/screensaver/tama/][起動はこちらから]]
 
 *** ulam​​_​spiral
     数学者ウラムが発見した「ウラムの螺旋」が生成される様子を観察できます。
     ウラムの螺旋とは、中心から数字をらせん状に並べていき、素数のみに印をつけると、まるで素数の分布に規則性でもあるかのような並びが浮かび上がって見える、というものです。
 
-    [[https://suyeden.github.io/demo/screensaver/ulam_spiral/index.html][起動はこちらから]]
+    [[https://suyeden.github.io/demo/screensaver/ulam_spiral/][起動はこちらから]]
 
 *** black
     真っ黒な画面を表示するだけです。
 
-    [[https://suyeden.github.io/demo/screensaver/black/index.html][起動はこちらから]]
+    [[https://suyeden.github.io/demo/screensaver/black/][起動はこちらから]]
